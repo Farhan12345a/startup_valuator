@@ -2,8 +2,6 @@
 
 An autonomous multi-agent framework for a **Startup Valuation Guessing Game**.
 
-This project is adapted from the Week 8 (Ed Donners AI Course) salary workflow, but re-themed to startup valuation analysis while keeping the core architecture and orchestration flow the same.
-
 ## Concept
 
 Instead of spotting above-market salaries, the system analyzes startup profiles and estimates valuation:
