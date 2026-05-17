@@ -47,3 +47,4 @@ jupyter notebook startup_valuation_is_right.ipynb
 
 - Field names in code may still use legacy names (for compatibility), but semantics are startup valuation focused.
 - Configure environment variables (`OPENAI_API_KEY`, `PUSHOVER_USER`, `PUSHOVER_TOKEN`, etc.) before running live workflows.
+- Inspired by Ed Donner's LLM Engineering course on Udemy
